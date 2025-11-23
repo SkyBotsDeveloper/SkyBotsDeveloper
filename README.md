@@ -5,7 +5,7 @@
 > *Transforming chaos into elegant systems. One script, one API, one automation at a time.*
 
 ---
-
+https://avatars.githubusercontent.com/u/244394651?s=400&u=2aadc001486f1f038a0a0bd9ac94ad15cf276435&v=4
 ## 🎯 About Me
 
 I'm a solo developer who thrives on **automation**, **AI tools**, and **high-performance systems**. I believe in:
