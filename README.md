@@ -10,7 +10,6 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/SkyBotsDeveloper?style=social)](https://github.com/SkyBotsDeveloper)
-
 [![GitHub User's stars](https://img.shields.io/github/stars/SkyBotsDeveloper?style=social)](https://github.com/SkyBotsDeveloper)
 
 </div>
