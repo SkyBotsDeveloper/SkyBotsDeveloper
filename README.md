@@ -2,8 +2,6 @@
 
 > Building **real, production-ready Telegram bots, automation systems, and backend tools** — focused on performance, reliability, and clean architecture.
 
-[![GitHub followers](https://img.shields.io/github/followers/SkyBotsDeveloper?style=social)](https://github.com/SkyBotsDeveloper)
-[![GitHub User's stars](https://img.shields.io/github/stars/SkyBotsDeveloper?style=social)](https://github.com/SkyBotsDeveloper)
 
 ---
 
@@ -11,9 +9,9 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyBotsDeveloper\&show_icons=true\&theme=dark\&count_private=true)
+[![GitHub followers](https://img.shields.io/github/followers/SkyBotsDeveloper?style=social)](https://github.com/SkyBotsDeveloper)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyBotsDeveloper\&layout=compact\&theme=dark)
+[![GitHub User's stars](https://img.shields.io/github/stars/SkyBotsDeveloper?style=social)](https://github.com/SkyBotsDeveloper)
 
 </div>
 
