@@ -124,4 +124,4 @@ Every serious repo includes:
 
 ---
 
-© 2026 SkyBotsDeveloper. No fake projects. Only working systems.
+© 2026 SkyBotsDeveloper.
