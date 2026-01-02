@@ -5,17 +5,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/SkyBotsDeveloper?style=social)](https://github.com/SkyBotsDeveloper)
 [![GitHub User's stars](https://img.shields.io/github/stars/SkyBotsDeveloper?style=social)](https://github.com/SkyBotsDeveloper)
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyBotsDeveloper&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyBotsDeveloper&layout=compact&theme=dark)
-
-</div>
 
 ---
 
