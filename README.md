@@ -43,46 +43,7 @@
 
 ---
 
-## 📌 Featured Projects
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Tech Stack</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href=""><strong>SkyBots Core</strong></a></td>
-      <td>Advanced robotics control framework with real-time processing capabilities and distributed system architecture.</td>
-      <td>Python, C++, ROS</td>
-      <td>🚀 Active</td>
-    </tr>
-    <tr>
-      <td><a href=""><strong>Autonomous Systems</strong></a></td>
-      <td>Intelligent navigation and decision-making system using machine learning and computer vision.</td>
-      <td>Python, TensorFlow, OpenCV</td>
-      <td>🚀 Active</td>
-    </tr>
-    <tr>
-      <td><a href=""><strong>CloudBot Management</strong></a></td>
-      <td>Scalable cloud-based platform for managing distributed bot deployments and monitoring.</td>
-      <td>Node.js, Docker, Kubernetes</td>
-      <td>🚀 Active</td>
-    </tr>
-    <tr>
-      <td><a href=""><strong>Real-time Analytics Engine</strong></a></td>
-      <td>High-performance data processing pipeline for bot telemetry and performance metrics.</td>
-      <td>TypeScript, Kafka, PostgreSQL</td>
-      <td>📚 Development</td>
-    </tr>
-  </tbody>
-</table>
-
----
 
 ## 🌟 Highlights
 
