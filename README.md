@@ -1,161 +1,130 @@
 # 🚀 SkyBotsDeveloper
 
-> Building innovative solutions at the intersection of robotics, automation, and intelligent systems.
+> Building **real, production-ready Telegram bots, automation systems, and backend tools** — focused on performance, reliability, and clean architecture.
 
 [![GitHub followers](https://img.shields.io/github/followers/SkyBotsDeveloper?style=social)](https://github.com/SkyBotsDeveloper)
 [![GitHub User's stars](https://img.shields.io/github/stars/SkyBotsDeveloper?style=social)](https://github.com/SkyBotsDeveloper)
 
-
 ---
 
-## 🛠️ Technical Skills & Expertise
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Technologies & Frameworks
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### Specialized Domains
-![Robotics](https://img.shields.io/badge/Robotics-00A3E0?style=for-the-badge)
-![AI/ML](https://img.shields.io/badge/AI%2FML-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-4CAF50?style=for-the-badge)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-
-
-## 🌟 Highlights
-
-- 🤖 **Robotics Expertise**: Deep experience in autonomous systems and intelligent automation
-- 🧠 **AI/ML Integration**: Proficient in machine learning model development and deployment
-- ☁️ **Cloud-Native Development**: Building scalable, distributed systems on modern cloud platforms
-- 🔄 **DevOps & CI/CD**: Strong background in containerization, orchestration, and continuous integration
-- 📊 **Data Engineering**: Experience with big data processing and real-time analytics
-- 🔐 **Security-First**: Implementing best practices in security and data protection
-
----
-
-## 📈 Contribution Activity
-Contributions per day of the week: 📊 Highest contribution rate: Weekdays ⏰ Most active hours: 14:00 - 18:00 UTC 🎯 Average commits per day: 3-5
-
-
----
-
-## 🤝 Connect & Collaborate
+## 📊 GitHub Overview
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkyBotsDeveloper)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SkyBotsDeveloper)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SkyBotsDeveloper)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@skybotsdeveloper.com)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyBotsDeveloper\&show_icons=true\&theme=dark\&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyBotsDeveloper\&layout=compact\&theme=dark)
 
 </div>
 
 ---
 
-## 💼 Professional Experience
+## 🧠 What I Actually Build
 
-- **Advanced Robotics Development**: Designing and implementing complex autonomous systems
-- **Full-Stack Architecture**: From embedded systems to cloud infrastructure
-- **Team Leadership**: Mentoring developers and leading technical initiatives
-- **Innovation**: Pioneering new approaches to automation and intelligent systems
-
----
-
-## 🎓 Learning & Development
-
-I'm continuously learning and exploring:
-- 🔬 Latest advances in AI and machine learning
-- 🌐 Emerging cloud technologies and distributed systems
-- 🚀 Quantum computing applications
-- 🎮 Advanced visualization and simulation techniques
+✔ **Telegram Bots (User + Bot Accounts)**
+✔ **Broadcasting & Automation Systems**
+✔ **MongoDB‑Backed Scalable Backends**
+✔ **Dockerized Deployments (VPS / Cloud)**
+✔ **High‑Performance Python Bots (Pyrogram / Telethon)**
+✔ **Real‑world tools — not demo or fake projects**
 
 ---
 
-## 📋 Development Workflow
-┌─────────────────────────────────────────┐ 
-│ Feature Development Process │ 
-├─────────────────────────────────────────┤ 
-│ 1. Requirements & Design │ 
-│ 2. Implementation & Testing │ 
-│ 3. Code Review & Optimization │ 
-│ 4. Integration & Deployment │ 
-│ 5. Monitoring & Improvement │ 
-└─────────────────────────────────────────┘
+## 🛠️ Tech Stack (Real Usage)
 
+### Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
----
+### Frameworks & Libraries
 
-## 📊 Code Quality Metrics
+![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge)
+![Telethon](https://img.shields.io/badge/Telethon-26A5E4?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-- **Test Coverage**: Aiming for >85% across projects
-- **Documentation**: Comprehensive API docs and user guides
-- **Performance**: Optimized for production environments
-- **Maintainability**: Following SOLID principles and design patterns
+### DevOps & Hosting
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![VPS](https://img.shields.io/badge/VPS-000000?style=for-the-badge)
 
 ---
 
-## 🏆 Achievements & Milestones
+## 📌 Featured **Real** Projects
 
-- ✅ 100+ repositories created and maintained
-- ✅ Open-source contributions across multiple projects
-- ✅ Advanced certifications in cloud computing and robotics
-- ✅ Community recognition and speaking engagements
+| Project                       | Description                                                                                                                               | Tech                      | Status         |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | -------------- |
+| **BroadcastingPro**           | Owner‑only Telegram broadcasting bot. Sends messages to **all groups & channels** where bot is admin. MongoDB powered, ultra‑fast & safe. | Python, Pyrogram, MongoDB | ✅ Stable       |
+| **ThunderXpluse_bot**         | Advanced Telegram moderation bot inspired by Miss Rose — with better speed, cleaner commands, and extensibility.                          | Python, Pyrogram          | 🚀 Active      |
+| **Telegram Emoji Automation** | User‑account automation script to send **human‑like random emojis** at intervals (anti‑spam safe).                                        | Python, Telethon          | ✅ Stable       |
+| **InfinityEra Hosting Tools** | Automation scripts & configs for deploying Telegram bots on VPS using Docker & systemd.                                                   | Docker, Linux             | 🛠️ Maintained |
+| **Telegram Bot Templates**    | Ready‑to‑deploy bot templates with MongoDB, env configs, and Docker support.                                                              | Python                    | 📦 Ongoing     |
 
----
-
-## 📝 Recent Blog Insights
-
-Topics I'm passionate about:
-- Building scalable microservices architectures
-- Implementing DevOps best practices
-- Advanced Python programming patterns
-- Real-time system design and optimization
+> All projects above are **public, functional, and actively used** — no showcase-only repositories.
 
 ---
 
-## 📚 Resources & Documentation
+## 🌟 Strengths
 
-All projects include:
-- 📖 Comprehensive README files
-- 🔧 Setup and installation guides
-- 📋 API documentation
-- 🧪 Test suites and examples
-- 🐛 Issue tracking and contribution guidelines
+* ⚡ **Performance‑Focused Bots** (fast startup, async, optimized DB usage)
+* 🔐 **Owner‑Only & Secure Systems**
+* 📦 **Production‑Ready Repositories** (env, Docker, logs, structure)
+* 🧩 **Modular Code Design** (easy to extend)
+* ☁️ **VPS & Cloud Friendly** (AWS / Ubuntu / Docker)
+
+---
+
+## 📂 Repository Quality Standards
+
+Every serious repo includes:
+
+* ✔ Clean folder structure
+* ✔ `.env` support
+* ✔ MongoDB integration (where needed)
+* ✔ Docker / VPS deployment guide
+* ✔ Clear README (no fake claims)
+
+---
+
+## 📈 Activity & Work Style
+
+* 🧠 Problem‑first approach
+* 🔁 Refactor instead of copy‑paste
+* 🚀 Focus on **real utility**, not hype
+* 🛠️ Bots built for **actual Telegram usage at scale**
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SkyBotsDeveloper)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/ThunderXpluse_bot)
+
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔨 Developing next-generation robotics frameworks
-- 📈 Scaling distributed systems to enterprise levels
-- 🤖 Advancing AI integration in automation
-- 🌍 Building developer community and open-source ecosystem
+* 🔧 Building **next‑level Telegram broadcasting systems**
+* 🤖 Advanced moderation bots
+* 🐳 One‑click Docker deployments
+* 📊 Better logging & monitoring for bots
 
 ---
 
 <div align="center">
 
-### Let's Build Something Extraordinary Together! 🚀
+### Real Bots. Real Users. Real Scale. 🚀
 
-**Last Updated**: 2026-01-02 | **Status**: Actively Maintaining & Contributing
-
-[⬆ back to top](#-skybotsdeveloper)
+**Last Updated**: 2026‑01‑02
+**Status**: Actively Building & Maintaining
 
 </div>
 
 ---
 
-*© 2026 SkyBotsDeveloper. All rights reserved.*
+© 2026 SkyBotsDeveloper. No fake projects. Only working systems.
