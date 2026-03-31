@@ -55,8 +55,8 @@
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
-| **[VivaanXmusic4.0](https://github.com/SkyBotsDeveloper/VivaanXmusic3.0)** | Advanced Telegram multi tasking bot with high-performance audio streaming, queue management & smart playback controls | Python (99.5%) | 🚀 Active |
-| **[VivaanXmusic3.0](https://github.com/SkyBotsDeveloper/VivaanXmusic2.0)** | Production-grade Telegram  music bot with optimized performance & seamless user experience | Python (99.1%) | ✅ Stable |
+| **[VivaanXmusic3.0](https://github.com/SkyBotsDeveloper/VivaanXmusic3.0)** | Advanced Telegram multi tasking bot with high-performance audio streaming, queue management & smart playback controls | Python (99.5%) | 🚀 Active |
+| **[VivaanXmusic2.0](https://github.com/SkyBotsDeveloper/VivaanXmusic2.0)** | Production-grade Telegram  music bot with optimized performance & seamless user experience | Python (99.1%) | ✅ Stable |
 | **[AurexMusic](https://github.com/SkyBotsDeveloper/Aurex-Downloads)** | Cross-platform Flutter/Dart web application with modern UI and responsive design | Dart (87.6%), C++ (5%) | 🛠️ Maintained |
 | **[BanAll](https://github.com/SkyBotsDeveloper/BanAll)** | Telegram moderation & automation tool for bulk ban operations with advanced filtering | Python (97%), Shell (3%) | ✅ Stable |
 | **[december](https://github.com/SkyBotsDeveloper/december)** | Modern TypeScript-based backend/automation service with high-performance APIs | TypeScript (98.9%) | 🚀 Active |
