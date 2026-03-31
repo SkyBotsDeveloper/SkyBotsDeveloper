@@ -55,13 +55,16 @@
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
-| **[VivaanXmusic4.0](https://github.com/SkyBotsDeveloper/VivaanXmusic2.0)** | Advanced Telegram music bot with high-performance audio streaming & queue management | Python (99.5%) | 🚀 Active |
-| **[VivaanXmusic3.0](https://github.com/SkyBotsDeveloper/VivaanXmusic3.0)** | Production-grade Telegram multi tasking telegram bot with optimized performance | Python (99.1%) | ✅ Stable |
-| **[AurexMusic](https://github.com/SkyBotsDeveloper/Aurex-Downloads)** | Cross-platform Flutter/Dart web application with modern UI | Dart (87.6%), C++ (5%) | 🛠️ Maintained |
-| **[BanAll](https://github.com/SkyBotsDeveloper/BanAll)** | Telegram moderation & automation tool for bulk ban operations | Python (97%), Shell (3%) | ✅ Stable |
-| **[december](https://github.com/SkyBotsDeveloper/december)** | Modern TypeScript-based backend/automation service | TypeScript (98.9%) | 🚀 Active |
-| **[NSFWDetection](https://github.com/SkyBotsDeveloper/NSFWDetection)** | AI/ML Python tool for NSFW content detection & filtering | Python (100%) | ✅ Stable |
-| **[youtube-search-python](https://github.com/SkyBotsDeveloper/youtube-search-python)** | Python-based YouTube search Library integration & automation tool | Python (100%) | 📦 Maintained |
+| **[VivaanXmusic4.0](https://github.com/SkyBotsDeveloper/VivaanXmusic3.0)** | Advanced Telegram multi tasking bot with high-performance audio streaming, queue management & smart playback controls | Python (99.5%) | 🚀 Active |
+| **[VivaanXmusic3.0](https://github.com/SkyBotsDeveloper/VivaanXmusic2.0)** | Production-grade Telegram  music bot with optimized performance & seamless user experience | Python (99.1%) | ✅ Stable |
+| **[AurexMusic](https://github.com/SkyBotsDeveloper/Aurex-Downloads)** | Cross-platform Flutter/Dart web application with modern UI and responsive design | Dart (87.6%), C++ (5%) | 🛠️ Maintained |
+| **[BanAll](https://github.com/SkyBotsDeveloper/BanAll)** | Telegram moderation & automation tool for bulk ban operations with advanced filtering | Python (97%), Shell (3%) | ✅ Stable |
+| **[december](https://github.com/SkyBotsDeveloper/december)** | Modern TypeScript-based backend/automation service with high-performance APIs | TypeScript (98.9%) | 🚀 Active |
+| **[NSFWDetection](https://github.com/SkyBotsDeveloper/NSFWDetection)** | AI/ML Python tool for NSFW content detection & real-time filtering with accuracy | Python (100%) | ✅ Stable |
+| **[youtube-search-python](https://github.com/SkyBotsDeveloper/youtube-search-python)** | Python-based YouTube search library with fast results & advanced filtering capabilities | Python (100%) | 📦 Maintained |
+| **[Elite-X-Lyrics](https://github.com/SkyBotsDeveloper/Elite-X-Lyrics)** | Telegram bot for fetching song lyrics with AI-powered search & multi-language support | Python | 🚀 Active |
+| **[EliteJiosaavn-Api](https://github.com/SkyBotsDeveloper/EliteJiosaavn-Api)** | High-performance JioSaavn API wrapper for seamless music data integration & streaming |  TypeScript | ✅ Stable |
+| **[inlinexgamesbot](https://github.com/SkyBotsDeveloper/inlinexgamesbot)** | Interactive Telegram inline games bot with multiplayer support & real-time gameplay | PHP | 🚀 Active |
 
 > All projects above are **public, functional, and actively maintained** — no showcase-only repositories.
 
