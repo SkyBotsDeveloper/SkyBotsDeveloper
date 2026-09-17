@@ -10,7 +10,7 @@
   <a href="https://github.com/SkyBotsDeveloper"><img src="https://komarev.com/ghpvc/?username=SkyBotsDeveloper&style=for-the-badge&color=blueviolet" alt="Profile views" /></a>
 </p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IflexElite)
+[![Telegram](https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IflexSid)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkyBotsDeveloper)
 
 </div>
@@ -138,7 +138,7 @@ I build **real-world, production-focused software** instead of showcase-only dem
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-SkyBotsDeveloper-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkyBotsDeveloper)
-[![Telegram](https://img.shields.io/badge/Telegram-IflexElite-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IflexElite)
+[![Telegram](https://img.shields.io/badge/Telegram-IflexElite-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IflexSid)
 
 ### Real projects. Useful software. Continuous progress. 🚀
 
